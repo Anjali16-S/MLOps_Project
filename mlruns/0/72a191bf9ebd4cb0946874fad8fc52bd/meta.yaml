@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Documents/MLOps-VAC/MlOps-Heart-Disease-model/mlruns/0/72a191bf9ebd4cb0946874fad8fc52bd/artifacts
+end_time: 1716745997627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72a191bf9ebd4cb0946874fad8fc52bd
+run_name: painted-grouse-965
+run_uuid: 72a191bf9ebd4cb0946874fad8fc52bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716745997415
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Documents/MLOps-VAC/MlOps-Heart-Disease-model/mlruns/0/d5d703beb5fe426eb57bcc6d01bc8f1c/artifacts
+end_time: 1716747995325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5d703beb5fe426eb57bcc6d01bc8f1c
+run_name: dapper-flea-757
+run_uuid: d5d703beb5fe426eb57bcc6d01bc8f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716747989193
+status: 3
+tags: []
+user_id: Lenovo
